@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ADITYA 1000 on My Docs</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in ADITYA 1000 on My Docs</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Thulite</copyright>
+    <lastBuildDate>Thu, 07 Sep 2023 16:27:22 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example </title>
+      <link>http://localhost:1313/blog/example/</link>
+      <pubDate>Thu, 07 Sep 2023 16:27:22 +0200</pubDate>
+      <guid>http://localhost:1313/blog/example/</guid>
+      <description>You can use blog posts for announcing product updates and features.</description>
+    </item>
+    <item>
+      <title> 0🔰. Introduction to Java</title>
+      <link>http://localhost:1313/docs/guides/0.-introduction-to-java/</link>
+      <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
+      <guid>http://localhost:1313/docs/guides/0.-introduction-to-java/</guid>
+      <description>&lt;h2 id=&#34;-what-is-java&#34;&gt;✅ What is Java?&lt;/h2&gt;&#xA;&lt;p&gt;Java is a &lt;strong&gt;high-level, object-oriented programming language&lt;/strong&gt; developed by &lt;strong&gt;Sun Microsystems&lt;/strong&gt; in the early 1990s.&#xA;It is known for its &lt;strong&gt;simplicity, portability, security&lt;/strong&gt;, and &lt;strong&gt;robustness&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title> 1.3 📦. Control Flow Statements</title>
+      <link>http://localhost:1313/docs/guides/1.3-.-control-flow-statements/</link>
+      <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
+      <guid>http://localhost:1313/docs/guides/1.3-.-control-flow-statements/</guid>
+      <description>&lt;h3 id=&#34;if-else&#34;&gt;if-else&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;code&gt;if-else&lt;/code&gt; statement is used to make decisions based on a condition. If the condition is &lt;code&gt;true&lt;/code&gt;, the first block of code is executed; otherwise, the &lt;code&gt;else&lt;/code&gt; block is executed.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title> 1.4 🔧. Methods and Constructors</title>
+      <link>http://localhost:1313/docs/guides/1.4-.-methods-and-constructors/</link>
+      <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
+      <guid>http://localhost:1313/docs/guides/1.4-.-methods-and-constructors/</guid>
+      <description>&lt;h2 id=&#34;method-syntax&#34;&gt;Method Syntax&lt;/h2&gt;&#xA;&lt;p&gt;In Java, methods are blocks of code that perform a specific task. A method must be defined with a return type, method name, and optional parameters.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title> 1.9  💻 . Command Line Arguments</title>
+      <link>http://localhost:1313/docs/guides/1.9-.-command-line-arguments/</link>
+      <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
+      <guid>http://localhost:1313/docs/guides/1.9-.-command-line-arguments/</guid>
+      <description>&lt;h3 id=&#34;what-is-java&#34;&gt;What is Java?&lt;/h3&gt;&#xA;&lt;h3 id=&#34;history-of-java&#34;&gt;History of Java&lt;/h3&gt;&#xA;&lt;h3 id=&#34;features-of-java&#34;&gt;Features of Java&lt;/h3&gt;&#xA;&lt;h3 id=&#34;why-java-is-platform-independent&#34;&gt;Why Java is Platform Independent&lt;/h3&gt;&#xA;&lt;h3 id=&#34;java-editions-se-ee-me&#34;&gt;Java Editions (SE, EE, ME)&lt;/h3&gt;&#xA;&lt;h3 id=&#34;-the-birth-of-java&#34;&gt;☕ The Birth of Java:&lt;/h3&gt;&#xA;&lt;p&gt;A Real Tale of Code and Coffee&#xA;In the early 1990s, at Sun Microsystems, a group of brilliant engineers were quietly working on something visionary. This secret initiative, called the &amp;ldquo;Green Project&amp;rdquo;, had one big dream:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title> 9 📄 . File Handling &amp; Streams </title>
+      <link>http://localhost:1313/docs/guides/9-.-file-handling-streams/</link>
+      <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
+      <guid>http://localhost:1313/docs/guides/9-.-file-handling-streams/</guid>
+      <description>&lt;p&gt;Java provides rich APIs for file input and output (I/O) using streams. These streams handle both binary (byte-based) and character (text-based) data.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>1.2 ⚙️. Java Basics</title>
+      <link>http://localhost:1313/docs/guides/1.2-%EF%B8%8F.-java-basics/</link>
+      <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
+      <guid>http://localhost:1313/docs/guides/1.2-%EF%B8%8F.-java-basics/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h3 id=&#34;java-program-structure&#34;&gt;Java Program Structure&lt;/h3&gt;&#xA;&lt;p&gt;A basic Java program consists of a class, a &lt;code&gt;main&lt;/code&gt; method, and statements inside the method. Here is an example:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>1.5 🧱. Object-Oriented Programming </title>
+      <link>http://localhost:1313/docs/guides/1.5-.-object-oriented-programming/</link>
+      <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
+      <guid>http://localhost:1313/docs/guides/1.5-.-object-oriented-programming/</guid>
+      <description>&lt;h1 id=&#34;-5-object-oriented-programming-oop-in-java&#34;&gt;🧱 5. Object-Oriented Programming (OOP) in Java&lt;/h1&gt;&#xA;&lt;p&gt;Object-Oriented Programming is a paradigm that organizes software design around data, or objects, rather than functions and logic. Here are the 10 core concepts with examples:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>1.6 🧰 . Exception Handling</title>
+      <link>http://localhost:1313/docs/guides/1.6-.-exception-handling/</link>
+      <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
+      <guid>http://localhost:1313/docs/guides/1.6-.-exception-handling/</guid>
+      <description>&lt;p&gt;Exception handling in Java is a mechanism to handle &lt;strong&gt;runtime errors&lt;/strong&gt;, so the normal flow of the application can be maintained. It prevents abrupt termination of the program and provides a way to gracefully recover from errors.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>1.7 📦 . Packages in Java</title>
+      <link>http://localhost:1313/docs/guides/1.7-.-packages-in-java/</link>
+      <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
+      <guid>http://localhost:1313/docs/guides/1.7-.-packages-in-java/</guid>
+      <description>&lt;p&gt;A &lt;strong&gt;package&lt;/strong&gt; in Java is a namespace that organizes a set of related classes and interfaces. Conceptually, it&amp;rsquo;s similar to different folders on your computer. Packages help:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
