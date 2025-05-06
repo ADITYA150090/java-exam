@@ -8,7 +8,7 @@
         "create": "hugo new",
         "dev": "hugo server --disableFastRender --noHTTPCache",
         "format": "prettier **/** -w -c",
-        "build": "hugo --minify --gc",
+        "build": "npx hugo-bin --minify --gc",
         "preview": "vite preview --outDir public"
     },
     "dependencies": {
@@ -22,7 +22,7 @@
     "devDependencies": {
         "prettier": "^3.3.3",
         "vite": "^5.4.2",
-        "hugo-bin": "^0.92.0"
+        "hugo-bin": "^0.121.0"
     },
     "engines": {
         "node": ">=20.11.0"
